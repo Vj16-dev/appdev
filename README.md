@@ -1,3 +1,3 @@
 # appdev
 My first repository
-My favorite place is Baguio because of it's cold weather.
+My dream is to become successful in life and provide the things that I needed and wants.
