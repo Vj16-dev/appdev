@@ -1,3 +1,3 @@
 # appdev
 My first repository
-My crush is Babylyn Arquillo and I am currently courting her. 
+My favorite food is Talong with bagoong ughhh sarap.
