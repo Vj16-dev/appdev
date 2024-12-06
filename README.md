@@ -1,3 +1,3 @@
 # appdev
 My first repository
-My favorite game is	Call of Duty Mobile
+My favorite subject is Introduction to Computer Animation
