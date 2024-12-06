@@ -1,7 +1,3 @@
 # appdev
 My first repository
-I am Von Jerric Ramirez Lontoc
-I am 20 years old
-I live in Ambulong Batangas City
-I love singing
-Im In Heat
+I am from BSIT 3.1B and I am a Third year student from STI College Batangas
