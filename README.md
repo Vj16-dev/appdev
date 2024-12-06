@@ -1,3 +1,3 @@
 # appdev
 My first repository
-My favorite food is Talong with bagoong ughhh sarap.
+My favorite place is Baguio because of it's cold weather.
